@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/igdsp18midterm.unity
+  isLoaded: 1
+  isActive: 1
