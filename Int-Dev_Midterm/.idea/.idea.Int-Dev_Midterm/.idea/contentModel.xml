@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\pokko\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Int-Dev_Midterm.-664423105.00" t="ExcludeRecursive" />
-    <e p="C:\Users\pokko\OneDrive\NYU\2017-2018\Intermediate Game Development\igdsp18midterm\Int-Dev_Midterm" t="IncludeRecursive">
+    <e p="C:\Users\pokko\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Int-Dev_Midterm.1208593189.00" t="ExcludeRecursive" />
+    <e p="C:\Users\pokko\OneDrive\NYU\2017-2018\Intermediate Game Development\Int-Dev_Midterm\Int-Dev_Midterm" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -15,6 +15,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="dogMovement.cs" t="Include" />
+          <e p="playerMovement.cs" t="Include" />
         </e>
       </e>
       <e p="Int-Dev_Midterm.sln" t="IncludeFlat" />
